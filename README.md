@@ -34,18 +34,6 @@ My focus areas include:
 
 I enjoy working on complex technical problems where correctness, performance, and reliability matter.
 
----
-
-### 🎯 Professional Interests  
-
-While my core strength is embedded firmware and systems programming,  
-I’m continually expanding into surrounding domains such as:
-
-- **Systems performance & observability**  
-- **Virtualization fundamentals (QEMU/KVM exploration)**  
-- **Containerization & cloud-native reliability concepts**  
-- **Hardware-software integration for high-performance workloads**
-
 I’m excited by the intersection of **low-level engineering + large-scale systems**, and I bring a  
 strong problem-solving mindset to environments where performance and reliability matter.
 
@@ -68,8 +56,3 @@ strong problem-solving mindset to environments where performance and reliability
 
 ---
 -->
-### 📬 Contact  
-
-- Email: **jianghongjuan1996@gmail.com**  
-- Location: Munich, Germany  
----
