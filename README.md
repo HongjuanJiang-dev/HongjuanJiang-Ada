@@ -7,6 +7,12 @@
 </p>
 
 ---
+## 📌 Projects I am working on
+
+➡️ [Project 1: QEMU Instrumentation](https://github.com/xxxx)  
+➡️ [Project 2: IK Solver](https://github.com/HongjuanJiang-dev/ik_task)
+
+---
 
 ### 🔧 About Me  
 
